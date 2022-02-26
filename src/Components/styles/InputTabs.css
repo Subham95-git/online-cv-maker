@@ -1,0 +1,16 @@
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #0e6153;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #000;
+  padding: 15px;
+  font-weight: bold;
+}
+h1 {
+  color: #0e6153;
+}

@@ -1,0 +1,17 @@
+.form {
+  padding: 20px;
+  font-weight: bold;
+}
+
+.card-header {
+  background-color: #975c39;
+  color: #fff;
+  font-weight: bold;
+}
+.card-title {
+  color: #4e7f96;
+}
+
+.crossButton {
+  float: right;
+}
